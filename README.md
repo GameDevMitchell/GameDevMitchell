@@ -48,7 +48,6 @@ As I continue to learn and grow, I invite you to explore my portfolio and dive i
 
 Thank you for visiting my world, and I hope you enjoy your stay!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameDevMitchell&show_icons=true&theme=radical)
 
 
 
@@ -71,33 +70,19 @@ Thank you for visiting my world, and I hope you enjoy your stay!
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-  ![Kali](https://img.shields.io/badge/-Kali-black?style=flat-square&logo=kalilinux)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-  ![CentOS](https://img.shields.io/badge/-CentOS-black?style=flat-square&logo=CentOS)
-  ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
-  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
-  ![Pytest](https://img.shields.io/badge/-Pytest-black?style=flat-square&logo=Pytest)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
   ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
   ![SQLALchemy](https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=SQLAlchemy)
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
-  ![Shell Script](https://img.shields.io/badge/-Shell_Script-black?style=flat-square&logo=gnu-bash)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib)
   ![NumPy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
   ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
   ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)
   ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
-  ![Atom](https://img.shields.io/badge/-Atom-black?style=flat-square&logo=atom)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code)
-  ![Vagrant](https://img.shields.io/badge/-Vagrant-black?style=flat-square&&logo=vagrant)
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
   ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
   
 
@@ -131,7 +116,7 @@ Thank you for visiting my world, and I hope you enjoy your stay!
 ### 🌘 My Statistics:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veluthil&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veluthil&show_icons=true&theme=tokyonight&bg_color=000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameDevMitchell&show_icons=true&theme=radical)
 <!--
 **GameDevMitchell/GameDevMitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
