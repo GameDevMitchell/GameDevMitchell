@@ -61,8 +61,6 @@ Thank you for visiting my world, and I hope you enjoy your stay!
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 
-<!--
-**GameDevMitchell/GameDevMitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 🌔 Languages, Technologies and Tools:
 
@@ -134,6 +132,9 @@ Thank you for visiting my world, and I hope you enjoy your stay!
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veluthil&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veluthil&show_icons=true&theme=tokyonight&bg_color=000000)
+<!--
+**GameDevMitchell/GameDevMitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ---
 Here are some ideas to get you started:
 
