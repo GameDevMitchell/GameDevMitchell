@@ -56,6 +56,77 @@ No activity tracked
 <!--
 **GameDevMitchell/GameDevMitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### 🌔 Languages, Technologies and Tools:
+
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
+  ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+  ![Jinja](https://img.shields.io/badge/-Jinja-black?style=flat-square&logo=Jinja)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+  ![Kali](https://img.shields.io/badge/-Kali-black?style=flat-square&logo=kalilinux)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+  ![CentOS](https://img.shields.io/badge/-CentOS-black?style=flat-square&logo=CentOS)
+  ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
+  ![Pytest](https://img.shields.io/badge/-Pytest-black?style=flat-square&logo=Pytest)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
+  ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
+  ![SQLALchemy](https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=SQLAlchemy)
+  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
+  ![Shell Script](https://img.shields.io/badge/-Shell_Script-black?style=flat-square&logo=gnu-bash)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib)
+  ![NumPy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
+  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+  ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)
+  ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
+  ![Atom](https://img.shields.io/badge/-Atom-black?style=flat-square&logo=atom)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code)
+  ![Vagrant](https://img.shields.io/badge/-Vagrant-black?style=flat-square&&logo=vagrant)
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
+  ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+  
+
+---
+
+### 🌕 Currently Learning:
+- Jenkins
+- Ansible
+  
+---
+
+### 🌗 Main Projects:
+- [Repo](https://github.com/Veluthil/My-DevOps-Journey) - In Progress
+<a href="(https://github.com/Veluthil/My-DevOps-Journey)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=My-DevOps-Journey&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="My DevOps Journey" />
+</a>
+
+- [Live Demo](https://dokusho-vernissage.vercel.app/) & [Repo](https://github.com/Veluthil/eCommerce-Store)
+<a href="(https://github.com/Veluthil/eCommerce-Store)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=eCommerce-Store&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="Dokusho Vernissage" />
+</a>
+
+- [Live Demo](https://martyna-blog.onrender.com/) & [Repo](https://github.com/Veluthil/Blog-with-users-Flask)
+<a href="(https://github.com/Veluthil/Blog-with-users-Flask)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=Blog-with-users-Flask&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="Martyna's Blog" />
+</a>
+
+---
+
+
+### 🌘 My Statistics:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veluthil&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veluthil&show_icons=true&theme=tokyonight&bg_color=000000)
+---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
