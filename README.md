@@ -77,7 +77,6 @@ Building my blog
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gamedevmitchell&theme=radical&hide_border=false)<br/>
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gamedevmitchell&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gamedevmitchell&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -87,6 +86,7 @@ Building my blog
 
 <!--
 **GameDevMitchell/GameDevMitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gamedevmitchell&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 Here are some ideas to get you started:
