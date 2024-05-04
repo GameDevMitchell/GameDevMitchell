@@ -28,7 +28,7 @@ Thank you for visiting my world, and I hope you enjoy your stay!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Building my blog
 ```
 
 <!--END_SECTION:waka-->
@@ -82,9 +82,9 @@ No activity tracked
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=eCommerce-Store&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="Dokusho Vernissage" />
 </a>
 
-- [Live Demo](https://martyna-blog.onrender.com/) & [Repo](https://github.com/Veluthil/Blog-with-users-Flask)
+- [Live Demo](https://mitchys-blog.onrender.com/) & [Repo](https://github.com/GameDevMitchell/Mitchys-blog)
 <a href="(https://github.com/Veluthil/Blog-with-users-Flask)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=Blog-with-users-Flask&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="Martyna's Blog" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GameDevMitchell&repo=Blog-with-users-Flask&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="Martyna's Blog" />
 </a>
 
 ---
