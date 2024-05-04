@@ -86,6 +86,7 @@ Building my blog
 <a href="(https://github.com/Veluthil/Blog-with-users-Flask)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GameDevMitchell&repo=Blog-with-users-Flask&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="Martyna's Blog" />
 </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MitchGameDev&repo=github-readme-stats)](https://github.com/GameDevMitchell/Mitchys-blog)
 
 ---
 
