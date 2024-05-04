@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Mitchell, a young man with a passion for programming and a dream to become a game developer. Welcome to my world of creativity and innovation! Here, you'll find a collection of projects showcasing my journey as a developer, from tackling challenges in API integration to analysing LEGO datatsets and even exploring the realm of automated scheduling.
+
+As I continue to learn and grow, I invite you to explore my portfolio and dive into the code behind each project on GitHub. Join me on my adventure as I strive to turn my game development dreams into reality, one line of code at a time.
+
+Thank you for visiting my world, and I hope you enjoy your stay!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameDevMitchell)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GameDevMitchell/GameDevMitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
