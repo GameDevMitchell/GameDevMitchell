@@ -5,9 +5,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I'm Mitchell, a young man with a passion for programming and a dream to become a game developer. Welcome to my world of creativity and innovation! Here, you'll find a collection of projects showcasing my journey as a developer, from tackling challenges in API integration to analysing LEGO datatsets and even exploring the realm of automated scheduling.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As I continue to learn and grow, I invite you to explore my profile and dive into the code behind each project on GitHub. Join me on my adventure as I strive to turn my game development dreams into reality, one line of code at a time.
+
+Thank you for visiting my world, and I hope you enjoy your stay!
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
@@ -36,7 +38,8 @@ No activity tracked
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true
+&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
