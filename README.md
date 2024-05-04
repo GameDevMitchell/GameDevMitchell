@@ -70,25 +70,7 @@ Building my blog
 - Unity
   
 ---
-
-- [Live Demo](https://dokusho-vernissage.vercel.app/) & [Repo](https://github.com/Veluthil/eCommerce-Store)
-<a href="(https://github.com/Veluthil/eCommerce-Store)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=eCommerce-Store&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="Dokusho Vernissage" />
-</a>
-
-- [Live Demo](https://mitchys-blog.onrender.com/) & [Repo](https://github.com/GameDevMitchell/Mitchys-blog)
-<a href="(https://github.com/Veluthil/Blog-with-users-Flask)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GameDevMitchell&repo=Blog-with-users-Flask&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="Martyna's Blog" />
-</a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MitchGameDev&repo=Mitchy's-Blog)](https://github.com/GameDevMitchell/Mitchys-blog)
-
 ---
-
-
-### 🌘 My Statistics:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GameDevMItchell&theme=tokyonight&background=000000)](https://git.io/streak-stats)
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameDevMitchell&show_icons=true&theme=radical)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gamedevmitchell&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
