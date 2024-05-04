@@ -114,7 +114,7 @@ Thank you for visiting my world, and I hope you enjoy your stay!
 
 
 ### 🌘 My Statistics:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GameDevMitchell&theme=jollyt&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GameDevMitchell1&theme=jolly)](https://git.io/streak-stats)
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameDevMitchell&show_icons=true&theme=radical)
 <!--
