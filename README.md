@@ -11,7 +11,7 @@ As I continue to learn and grow, I invite you to explore my profile and dive int
 
 Thank you for visiting my world, and I hope you enjoy your stay!
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
