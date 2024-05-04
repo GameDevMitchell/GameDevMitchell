@@ -71,12 +71,6 @@ Building my blog
   
 ---
 
-### 🌗 Main Projects:
-- [Repo](https://github.com/Veluthil/My-DevOps-Journey) - In Progress
-<a href="(https://github.com/Veluthil/My-DevOps-Journey)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=My-DevOps-Journey&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="My DevOps Journey" />
-</a>
-
 - [Live Demo](https://dokusho-vernissage.vercel.app/) & [Repo](https://github.com/Veluthil/eCommerce-Store)
 <a href="(https://github.com/Veluthil/eCommerce-Store)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=eCommerce-Store&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="Dokusho Vernissage" />
@@ -98,7 +92,9 @@ Building my blog
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gamedevmitchell&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gamedevmitchell&theme=radical&hide_border=false)<br/>
+---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gamedevmitchell&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
