@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![Mitchell Ogbo- linkedin background photo (5)](https://github.com/GameDevMitchell/GameDevMitchell/assets/146736445/cc368801-a67c-4bc2-a77b-d4203fbca09b)
+![game dev banner](https://github.com/GameDevMitchell/GameDevMitchell/assets/146736445/22b8e686-daef-480c-a3a7-5d9ef9bf26d6)
 
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
