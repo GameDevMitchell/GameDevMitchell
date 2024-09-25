@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
-I'm Mitchell, a young man with a passion for programming and a dream to become a game developer. Welcome to my world of creativity and innovation! Here, you'll find a collection of projects showcasing my journey as a developer, from tackling challenges in API integration to analysing LEGO datatsets and even exploring the realm of automated scheduling.
+I'm Mitchell, nice to meet you! Welcome to my world of creativity and innovation! Here, you'll find a collection of projects showcasing my journey as a developer, from tackling challenges in API integration to analysing LEGO datatsets and even exploring the realm of automated scheduling.
 
 As I continue to learn and grow, I invite you to explore my profile and dive into the code behind each project on GitHub. Join me on my adventure as I strive to turn my game development dreams into reality, one line of code at a time.
 
